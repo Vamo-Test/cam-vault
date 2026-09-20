@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "cam-daybreak",
-  "updated": "2026-09-16",
+  "updated": "2026-09-20",
   "records": [
     {
       "path": "records/2026-09-16-juliusbrussee-caveman.md",
@@ -11,6 +11,24 @@
         "Vamo-Test/cam-juliusbrussee-caveman-nu3o"
       ],
       "liveUrl": "https://cam-juliusbrussee-caveman-nu3o.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-20-github-mchatzakis-daisy-the.md",
+      "date": "2026-09-20",
+      "topic": "GitHub - MChatzakis/DaiSy: The DaiSy Library for Fast and Exact ...",
+      "relatedRepos": [
+        "Vamo-Test/code-insight-api"
+      ],
+      "liveUrl": "https://code-insight-api.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-18-a-weakness-has-been.md",
+      "date": "2026-09-18",
+      "topic": "A weakness has been identified in 0x4m4 HexStrike AI up... · CVE-2026-90690 · GitHub Advisory Database · GitHub",
+      "relatedRepos": [
+        "Vamo-Test/code-vuln-check"
+      ],
+      "liveUrl": "https://code-vuln-check.cameronwhiteside.workers.dev"
     }
   ]
 }
