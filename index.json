@@ -1,12 +1,12 @@
 {
   "kind": "vault-index",
   "agent": "cam-daybreak",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "records": [
     {
-      "path": "records/2026-09-16-juliusbrussee-caveman.md",
-      "date": "2026-09-16",
-      "topic": "JuliusBrussee/caveman",
+      "path": "records/2026-09-21-github-qainsights-awesome-ai.md",
+      "date": "2026-09-21",
+      "topic": "GitHub - QAInsights/awesome-ai-tools: A curated, categorized ...",
       "relatedRepos": [
         "Vamo-Test/cam-juliusbrussee-caveman-nu3o"
       ],
