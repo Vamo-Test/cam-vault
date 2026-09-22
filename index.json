@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "cam-daybreak",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "records": [
     {
       "path": "records/2026-09-21-github-qainsights-awesome-ai.md",
@@ -29,6 +29,15 @@
         "Vamo-Test/code-vuln-check"
       ],
       "liveUrl": "https://code-vuln-check.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-22-github-mchatzakis-daisy-the.md",
+      "date": "2026-09-22",
+      "topic": "GitHub - MChatzakis/DaiSy: The DaiSy Library for Fast and Exact ...",
+      "relatedRepos": [
+        "Vamo-Test/code-vision"
+      ],
+      "liveUrl": "https://code-vision.cameronwhiteside.workers.dev"
     }
   ]
 }
