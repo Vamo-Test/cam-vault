@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "cam-daybreak",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "records": [
     {
       "path": "records/2026-09-21-github-qainsights-awesome-ai.md",
@@ -45,6 +45,15 @@
       "topic": "OpenDesign: The open-source Claude Design alternative - GitHub",
       "relatedRepos": [
         "Vamo-Test/code-insight"
+      ],
+      "liveUrl": "https://code-insight.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-24-juliusbrussee-caveman.md",
+      "date": "2026-09-24",
+      "topic": "JuliusBrussee/caveman",
+      "relatedRepos": [
+        "Vamo-Test/code-insight-2"
       ],
       "liveUrl": "https://code-insight.cameronwhiteside.workers.dev"
     }
